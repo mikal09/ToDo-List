@@ -1,4 +1,4 @@
-# React Todo App: Phase 7
+# React Todo App:
 
 Quick start:
 
